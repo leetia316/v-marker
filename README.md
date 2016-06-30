@@ -1,2 +1,2 @@
 # wechat-subscriptor
-A webapp which collects WeChat subscriptions
+Read article at http://sfau.lt/b5yGuJ
